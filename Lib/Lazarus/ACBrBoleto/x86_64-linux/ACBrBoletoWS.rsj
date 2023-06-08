@@ -1,0 +1,5 @@
+{"version":1,"strings":[
+{"hash":173021024,"name":"acbrboletows.s_metodo_nao_implementado","sourcebytes":[77,101,116,111,100,111,32,37,115,32,110,97,111,32,73,109,112,108,101,109,101,110,116,97,100,111,32],"value":"Metodo %s nao Implementado "},
+{"hash":176021807,"name":"acbrboletows.s_operacao_nao_implementado","sourcebytes":[79,112,101,114,97,231,227,111,32,37,115,32,110,97,111,32,73,109,112,108,101,109,101,110,116,97,100,111,32,112,97,114,97,32,101,115,116,101,32,66,97,110,99,111],"value":"Opera\u00E7\u00E3o %s nao Implementado para este Banco"},
+{"hash":171130371,"name":"acbrboletows.s_erro_gerar_token_autenticacao","sourcebytes":[69,114,114,111,32,97,111,32,103,101,114,97,114,32,116,111,107,101,110,32,100,101,32,65,117,116,101,110,116,105,99,97,231,227,111,58,32,37,115],"value":"Erro ao gerar token de Autentica\u00E7\u00E3o: %s"}
+]}

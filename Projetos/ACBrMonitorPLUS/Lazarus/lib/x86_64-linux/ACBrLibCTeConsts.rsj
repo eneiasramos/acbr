@@ -1,0 +1,7 @@
+{"version":1,"strings":[
+{"hash":21546009,"name":"acbrlibcteconsts.sinfctecarregados","sourcebytes":[37,100,32,67,84,101,40,115,41,32,67,97,114,114,101,103,97,100,111,40,115,41],"value":"%d CTe(s) Carregado(s)"},
+{"hash":121159417,"name":"acbrlibcteconsts.sinfeventoscarregados","sourcebytes":[37,100,32,69,118,101,110,116,111,40,115,41,32,67,97,114,114,101,103,97,100,111,40,115,41],"value":"%d Evento(s) Carregado(s)"},
+{"hash":195719278,"name":"acbrlibcteconsts.serrchaveinvalida","sourcebytes":[67,104,97,118,101,32,37,32,105,110,118,195,161,108,105,100,97,46],"value":"Chave % inv\u00E1lida."},
+{"hash":257698302,"name":"acbrlibcteconsts.serrcnpjinvalido","sourcebytes":[67,78,80,74,32,37,32,105,110,118,195,161,108,105,100,111,46],"value":"CNPJ % inv\u00E1lido."},
+{"hash":199733646,"name":"acbrlibcteconsts.serrcnpjcpfinvalido","sourcebytes":[67,78,80,74,47,67,80,70,32,37,32,105,110,118,195,161,108,105,100,111,46],"value":"CNPJ\/CPF % inv\u00E1lido."}
+]}

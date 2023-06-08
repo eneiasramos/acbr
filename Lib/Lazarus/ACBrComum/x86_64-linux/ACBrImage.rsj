@@ -1,0 +1,4 @@
+{"version":1,"strings":[
+{"hash":130493217,"name":"acbrimage.cerrimgnotbmpmono","sourcebytes":[73,109,97,103,101,109,32,110,227,111,32,233,32,66,77,80,32,77,111,110,111,99,114,111,109,225,116,105,99,97],"value":"Imagem n\u00E3o \u00E9 BMP Monocrom\u00E1tica"},
+{"hash":206646487,"name":"acbrimage.cerrimgnotpng","sourcebytes":[73,109,97,103,101,109,32,110,227,111,32,233,32,80,78,71],"value":"Imagem n\u00E3o \u00E9 PNG"}
+]}

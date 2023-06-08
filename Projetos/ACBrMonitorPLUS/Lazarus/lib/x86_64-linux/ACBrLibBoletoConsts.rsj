@@ -1,0 +1,4 @@
+{"version":1,"strings":[
+{"hash":80679465,"name":"acbrlibboletoconsts.sinfboletoscarregados","sourcebytes":[37,100,32,66,111,108,101,116,111,115,40,115,41,32,67,97,114,114,101,103,97,100,111,40,115,41],"value":"%d Boletos(s) Carregado(s)"},
+{"hash":132245156,"name":"acbrlibboletoconsts.serrolerarquivoentrada","sourcebytes":[69,114,114,111,32,97,111,32,108,101,114,32,97,114,113,117,105,118,111,32,100,101,32,101,110,116,114,97,100,97,58,32,37,100],"value":"Erro ao ler arquivo de entrada: %d"}
+]}

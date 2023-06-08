@@ -1,0 +1,8 @@
+{"version":1,"strings":[
+{"hash":7493299,"name":"acbrpixutil.serrotxidmuitolonga","sourcebytes":[67,104,97,118,101,32,84,120,73,100,32,101,120,99,101,100,101,32,37,100,32,67,97,114,97,99,116,101,114,101,115],"value":"Chave TxId excede %d Caracteres"},
+{"hash":56416323,"name":"acbrpixutil.serrotxidmuitocurta","sourcebytes":[67,104,97,118,101,32,84,120,73,100,32,105,110,102,101,114,105,111,114,32,97,32,37,100,32,67,97,114,97,99,116,101,114,101,115],"value":"Chave TxId inferior a %d Caracteres"},
+{"hash":86822340,"name":"acbrpixutil.serrotxidinvalido","sourcebytes":[67,97,114,97,99,116,101,114,101,115,32,105,110,118,225,108,105,100,111,115,32,110,111,32,84,120,73,100],"value":"Caracteres inv\u00E1lidos no TxId"},
+{"hash":125366377,"name":"acbrpixutil.serropssforadafaixa","sourcebytes":[67,243,100,105,103,111,32,73,83,80,66,32,102,111,114,97,32,100,97,32,70,97,105,120,97,44,32,48,45,57,57,57,57,57,57,57,57],"value":"C\u00F3digo ISPB fora da Faixa, 0-99999999"},
+{"hash":113561795,"name":"acbrpixutil.serroendtoendidentification","sourcebytes":[69,110,100,84,111,69,110,100,73,100,101,110,116,105,102,105,99,97,116,105,111,110,32,100,101,118,101,32,115,101,114,32,51,50,32,99,97,114,97,99,116,101,114,101,115,32,97,108,102,97,110,117,109,233,114,105,99,111,115],"value":"EndToEndIdentification deve ser 32 caracteres alfanum\u00E9ricos"},
+{"hash":265817747,"name":"acbrpixutil.serrochaveinvalida","sourcebytes":[67,104,97,118,101,32,73,110,118,225,108,105,100,97,58,32,37,115],"value":"Chave Inv\u00E1lida: %s"}
+]}

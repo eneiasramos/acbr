@@ -1,0 +1,4 @@
+{"version":1,"strings":[
+{"hash":198259571,"name":"acbrlibsatconsts.serrlibsatcnpjswhouseinvalido","sourcebytes":[67,78,80,74,32,100,97,32,83,111,102,116,119,97,114,101,32,72,111,117,115,101,32,105,110,118,195,161,108,105,100,111,33,10,37,115],"value":"CNPJ da Software House inv\u00C3\u00A1lido!\n%s"},
+{"hash":82738659,"name":"acbrlibsatconsts.serrlibsatcnpjemitenteinvalido","sourcebytes":[67,78,80,74,32,100,111,32,69,109,105,116,101,110,116,101,32,105,110,118,195,161,108,105,100,111,33,10,37,115],"value":"CNPJ do Emitente inv\u00C3\u00A1lido!\n%s"}
+]}

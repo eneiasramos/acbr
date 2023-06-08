@@ -1,0 +1,254 @@
+07/06/2023 21:12:00 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 21:12:00 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 21:12:00 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 21:12:00 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 21:12:00 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 21:12:00 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 21:12:00 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 21:12:00 - Suporte a libWinCrypt disponível apenas em MSWINDOWS
+Será utilizado a configuração padrão SSL: libOpenSSL !
+07/06/2023 21:12:02 - Dados da Sw.House gravados com sucesso
+07/06/2023 21:12:02 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 21:12:02 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 21:12:02 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 21:12:02 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 21:12:02 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 21:12:02 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 21:12:02 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 21:12:03 - Configuração geral gravada com sucesso
+07/06/2023 21:12:05 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 21:12:05 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 21:12:05 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 21:12:05 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 21:12:05 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 21:12:05 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 21:12:05 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 21:12:06 - ACBr MonitorPLUS Ver.1.4.0.176 - x64
+07/06/2023 21:12:06 - Aguardando comandos ACBr
+07/06/2023 21:12:49 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 21:12:49 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 21:12:49 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 21:12:49 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 21:12:49 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 21:12:49 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 21:12:49 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 21:12:49 - ACBr MonitorPLUS Ver.1.4.0.176 - x64
+07/06/2023 21:12:49 - Aguardando comandos ACBr
+07/06/2023 21:13:09 - Endereço Local: [eneias-MW-H61H2-M2],   IP:    127.0.1.1
+07/06/2023 21:13:10 - Porta: [3434]
+07/06/2023 21:13:10 - Log de comandos será gravado em: /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/LOG.TXT
+07/06/2023 21:13:18 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 21:13:18 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 21:13:18 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 21:13:18 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 21:13:18 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 21:13:18 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 21:13:18 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 21:13:18 - ACBr MonitorPLUS Ver.1.4.0.176 - x64
+07/06/2023 21:13:18 - Aguardando comandos ACBr
+07/06/2023 21:13:38 - Endereço Local: [eneias-MW-H61H2-M2],   IP:    127.0.1.1
+07/06/2023 21:13:38 - Dados da Sw.House gravados com sucesso
+07/06/2023 21:13:40 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 21:13:40 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 21:13:40 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 21:13:40 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 21:13:40 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 21:13:40 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 21:13:40 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 21:13:40 - Configuração geral gravada com sucesso
+07/06/2023 21:13:40 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 21:13:40 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 21:13:40 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 21:13:40 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 21:13:40 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 21:13:40 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 21:13:40 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 21:13:40 - Log de comandos será gravado em: /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/LOG.TXT
+07/06/2023 21:13:40 - Exception - Erro: 98 - Address already in use
+Não foi possível criar serviço na porta: 3434
+07/06/2023 21:13:40 - 
+Erro: 98 - Address already in use
+Não foi possível criar serviço na porta: 3434
+07/06/2023 21:13:40 - Porta: [3434]
+07/06/2023 21:13:40 - Log de comandos será gravado em: /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/LOG.TXT
+07/06/2023 21:14:33 - Dados da Sw.House gravados com sucesso
+07/06/2023 21:14:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 21:14:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 21:14:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 21:14:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 21:14:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 21:14:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 21:14:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 21:14:33 - Configuração geral gravada com sucesso
+07/06/2023 21:14:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 21:14:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 21:14:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 21:14:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 21:14:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 21:14:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 21:14:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 21:14:33 - ACBr MonitorPLUS Ver.1.4.0.176 - x64
+07/06/2023 21:14:33 - Aguardando comandos ACBr
+07/06/2023 21:14:53 - Endereço Local: [eneias-MW-H61H2-M2],   IP:    127.0.1.1
+07/06/2023 21:14:53 - Porta: [3434]
+07/06/2023 21:14:53 - Log de comandos será gravado em: /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/LOG.TXT
+07/06/2023 21:15:35 - Data Inválida
+07/06/2023 21:15:35 - Data Inválida
+07/06/2023 21:15:35 - EInvalidOperation - Cannot focus a disabled or invisible window
+07/06/2023 21:15:35 - Cannot focus a disabled or invisible window
+07/06/2023 21:15:46 - Data Inválida
+07/06/2023 21:15:48 - Data Inválida
+07/06/2023 21:15:48 - Data Inválida
+07/06/2023 21:15:48 - EInvalidOperation - Cannot focus a disabled or invisible window
+07/06/2023 21:15:48 - Cannot focus a disabled or invisible window
+07/06/2023 21:16:44 - EACBrCEPException - WebService TACBrCEPWSClass não implementa o método: BuscarPorCEP
+07/06/2023 21:16:44 - WebService TACBrCEPWSClass não implementa o método: BuscarPorCEP
+07/06/2023 21:18:28 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 21:18:28 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 21:18:28 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 21:18:28 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 21:18:28 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 21:18:28 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 21:18:28 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 21:18:28 - Log de comandos será gravado em: /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/LOG.TXT
+07/06/2023 21:18:28 - Exception - Erro: 98 - Address already in use
+Não foi possível criar serviço na porta: 3434
+07/06/2023 21:18:28 - 
+Erro: 98 - Address already in use
+Não foi possível criar serviço na porta: 3434
+07/06/2023 21:21:03 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 21:21:03 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 21:21:03 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 21:21:03 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 21:21:03 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 21:21:03 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 21:21:03 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 21:21:03 - ACBr MonitorPLUS Ver.1.4.0.176 - x64
+07/06/2023 21:21:03 - Aguardando comandos ACBr
+07/06/2023 21:21:23 - Endereço Local: [eneias-MW-H61H2-M2],   IP:    127.0.1.1
+07/06/2023 21:21:24 - Porta: [3434]
+07/06/2023 21:21:24 - Log de comandos será gravado em: /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/LOG.TXT
+07/06/2023 21:21:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 21:21:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 21:21:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 21:21:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 21:21:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 21:21:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 21:21:33 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 21:21:33 - Log de comandos será gravado em: /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/LOG.TXT
+07/06/2023 21:21:33 - Exception - Erro: 98 - Address already in use
+Não foi possível criar serviço na porta: 3434
+07/06/2023 21:21:33 - 
+Erro: 98 - Address already in use
+Não foi possível criar serviço na porta: 3434
+07/06/2023 21:21:58 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 21:21:58 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 21:21:58 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 21:21:58 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 21:21:58 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 21:21:58 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 21:21:58 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 21:21:58 - ACBr MonitorPLUS Ver.1.4.0.176 - x64
+07/06/2023 21:21:58 - Aguardando comandos ACBr
+07/06/2023 21:22:18 - Endereço Local: [eneias-MW-H61H2-M2],   IP:    127.0.1.1
+07/06/2023 21:22:18 - Porta: [3434]
+07/06/2023 21:22:18 - Log de comandos será gravado em: /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/LOG.TXT
+07/06/2023 21:22:54 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 21:22:54 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 21:22:54 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 21:22:54 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 21:22:54 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 21:22:54 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 21:22:54 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 21:22:54 - ACBr MonitorPLUS Ver.1.4.0.176 - x64
+07/06/2023 21:22:54 - Aguardando comandos ACBr
+07/06/2023 21:23:14 - Endereço Local: [eneias-MW-H61H2-M2],   IP:    127.0.1.1
+07/06/2023 21:23:14 - Porta: [3434]
+07/06/2023 21:23:14 - Log de comandos será gravado em: /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/LOG.TXT
+07/06/2023 21:23:19 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 21:23:19 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 21:23:19 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 21:23:19 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 21:23:19 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 21:23:19 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 21:23:19 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 21:23:19 - ACBr MonitorPLUS Ver.1.4.0.176 - x64
+07/06/2023 21:23:19 - Aguardando comandos ACBr
+07/06/2023 21:23:39 - Endereço Local: [eneias-MW-H61H2-M2],   IP:    127.0.1.1
+07/06/2023 21:23:39 - Porta: [3434]
+07/06/2023 21:23:39 - Log de comandos será gravado em: /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/LOG.TXT
+07/06/2023 21:23:43 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 21:23:43 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 21:23:43 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 21:23:43 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 21:23:43 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 21:23:43 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 21:23:43 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 21:23:44 - ACBr MonitorPLUS Ver.1.4.0.176 - x64
+07/06/2023 21:23:44 - Aguardando comandos ACBr
+07/06/2023 21:24:04 - Endereço Local: [eneias-MW-H61H2-M2],   IP:    127.0.1.1
+07/06/2023 21:24:04 - Porta: [3434]
+07/06/2023 21:24:04 - Log de comandos será gravado em: /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/LOG.TXT
+07/06/2023 21:24:45 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 21:24:45 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 21:24:45 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 21:24:45 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 21:24:45 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 21:24:45 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 21:24:45 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 21:24:45 - ACBr MonitorPLUS Ver.1.4.0.176 - x64
+07/06/2023 21:24:45 - Aguardando comandos ACBr
+07/06/2023 21:25:05 - Endereço Local: [eneias-MW-H61H2-M2],   IP:    127.0.1.1
+07/06/2023 21:25:05 - Porta: [3434]
+07/06/2023 21:25:05 - Log de comandos será gravado em: /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/LOG.TXT
+07/06/2023 22:05:14 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 22:05:15 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 22:05:15 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 22:05:15 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 22:05:15 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 22:05:15 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 22:05:15 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 22:05:15 - ACBr MonitorPLUS Ver.1.4.0.176 - x64
+07/06/2023 22:05:15 - Aguardando comandos ACBr
+07/06/2023 22:05:35 - Endereço Local: [eneias-MW-H61H2-M2],   IP:    127.0.1.1
+07/06/2023 22:05:35 - Porta: [3434]
+07/06/2023 22:05:35 - Log de comandos será gravado em: /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/LOG.TXT
+07/06/2023 22:06:17 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 22:06:17 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 22:06:17 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 22:06:17 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 22:06:17 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 22:06:17 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 22:06:17 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 22:06:17 - Log de comandos será gravado em: /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/LOG.TXT
+07/06/2023 22:06:17 - Exception - Erro: 98 - Address already in use
+Não foi possível criar serviço na porta: 3434
+07/06/2023 22:06:17 - 
+Erro: 98 - Address already in use
+Não foi possível criar serviço na porta: 3434
+07/06/2023 22:06:25 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+07/06/2023 22:06:25 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+07/06/2023 22:06:25 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+07/06/2023 22:06:25 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+07/06/2023 22:06:25 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+07/06/2023 22:06:25 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+07/06/2023 22:06:25 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+07/06/2023 22:06:25 - ACBr MonitorPLUS Ver.1.4.0.176 - x64
+07/06/2023 22:06:25 - Aguardando comandos ACBr
+07/06/2023 22:06:45 - Endereço Local: [eneias-MW-H61H2-M2],   IP:    127.0.1.1
+07/06/2023 22:06:45 - Porta: [3434]
+07/06/2023 22:06:45 - Log de comandos será gravado em: /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/LOG.TXT
+08/06/2023 13:27:37 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrNFeServicos.ini não encontrado!!!
+08/06/2023 13:27:37 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrCTeServicos.ini não encontrado!!!
+08/06/2023 13:27:37 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrMDFeServicos.ini não encontrado!!!
+08/06/2023 13:27:37 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrBPeServicos.ini não encontrado!!!
+08/06/2023 13:27:37 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrGNREServicos.ini não encontrado!!!
+08/06/2023 13:27:37 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBreSocialServicos.ini não encontrado!!!
+08/06/2023 13:27:37 - ATENÇÃO: Arquivo /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/ACBrReinfServicos.ini não encontrado!!!
+08/06/2023 13:27:37 - ACBr MonitorPLUS Ver.1.4.0.176 - x64
+08/06/2023 13:27:37 - Aguardando comandos ACBr
+08/06/2023 13:27:57 - Endereço Local: [eneias-MW-H61H2-M2],   IP:    127.0.1.1
+08/06/2023 13:27:58 - Porta: [3434]
+08/06/2023 13:27:58 - Log de comandos será gravado em: /home/eneias/projetos/svn/acbr/Projetos/ACBrMonitorPLUS/Lazarus/LOG.TXT
+08/06/2023 13:29:05 - Exception - Communication error 13: Permission denied
+08/06/2023 13:29:05 - Communication error 13: Permission denied

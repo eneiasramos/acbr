@@ -1,0 +1,7 @@
+{"version":1,"strings":[
+{"hash":216386707,"name":"acbrlibesocialconsts.serroesocialabrir","sourcebytes":[69,114,114,111,32,97,111,32,97,98,114,105,114,32,111,32,97,114,113,117,105,118,111,32,100,111,32,101,83,111,99,105,97,108,58,32,37,115],"value":"Erro ao abrir o arquivo do eSocial: %s"},
+{"hash":17857587,"name":"acbrlibesocialconsts.smsgesocialeventoadicionado","sourcebytes":[69,118,101,110,116,111,32,65,100,105,99,105,111,110,97,100,111,58,32,37,115],"value":"Evento Adicionado: %s"},
+{"hash":263817967,"name":"acbrlibesocialconsts.serroesocialconsulta","sourcebytes":[69,114,114,111,32,97,111,32,67,111,110,115,117,108,116,97,114,32,69,118,101,110,116,111,32,45,32,80,97,114,195,162,109,101,116,114,111,32,110,195,163,111,32,80,114,101,101,110,99,104,105,100,111],"value":"Erro ao Consultar Evento - Par\u00E2metro n\u00E3o Preenchido"},
+{"hash":121159417,"name":"acbrlibesocialconsts.sinfeventoscarregados","sourcebytes":[37,100,32,69,118,101,110,116,111,40,115,41,32,67,97,114,114,101,103,97,100,111,40,115,41],"value":"%d Evento(s) Carregado(s)"},
+{"hash":16184697,"name":"acbrlibesocialconsts.sinfesocialcarregadas","sourcebytes":[37,100,32,101,83,111,99,105,97,108,40,115,41,32,67,97,114,114,101,103,97,100,97,40,115,41],"value":"%d eSocial(s) Carregada(s)"}
+]}

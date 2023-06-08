@@ -1,0 +1,12 @@
+07/06/23 21:13:40:714 - Exception - Erro: 98 - Address already in use
+Não foi possível criar serviço na porta: 3434
+07/06/23 21:15:35:189 - EInvalidOperation - Cannot focus a disabled or invisible window
+07/06/23 21:15:48:228 - EInvalidOperation - Cannot focus a disabled or invisible window
+07/06/23 21:16:44:573 - EACBrCEPException - WebService TACBrCEPWSClass não implementa o método: BuscarPorCEP
+07/06/23 21:18:28:599 - Exception - Erro: 98 - Address already in use
+Não foi possível criar serviço na porta: 3434
+07/06/23 21:21:33:570 - Exception - Erro: 98 - Address already in use
+Não foi possível criar serviço na porta: 3434
+07/06/23 22:06:17:903 - Exception - Erro: 98 - Address already in use
+Não foi possível criar serviço na porta: 3434
+08/06/23 13:29:05:758 - Exception - Communication error 13: Permission denied
